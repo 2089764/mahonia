@@ -7,6 +7,9 @@ Mahonia is a character-set conversion library implemented in Go. All data is com
 based on http://code.google.com/p/mahonia/
 fork	https://github.com/Tang-RoseChild/mahonia
 
+# install 
+`go get github.com/2089764/mahonia`
+
 # example 
 > more demo in mahonia_test.go
  
@@ -15,7 +18,7 @@ fork	https://github.com/Tang-RoseChild/mahonia
 package main
 import (
 	"fmt"
-	import "https://github.com/2089764/mahonia"
+	"https://github.com/2089764/mahonia"
 )
  var testData = []struct {
                 utf8, other, otherEncoding string
