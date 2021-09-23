@@ -18,7 +18,7 @@ fork	https://github.com/Tang-RoseChild/mahonia
 package main
 import (
 	"fmt"
-	"https://github.com/2089764/mahonia"
+	"github.com/2089764/mahonia"
 )
  var testData = []struct {
                 utf8, other, otherEncoding string
